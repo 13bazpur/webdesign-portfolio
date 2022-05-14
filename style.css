@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.about{
+	background-color: brown;
+	padding: 100px;
+}
+
+.big-box{
+	height: 400px;
+	background-color: blue;
+	position: relative;
+}
+
+.small-box{
+	width: 80px;
+	height: 80px;
+	background-color: green;
+	position: absolute;
+	bottom: 190px;
+	right: 240px;
+
+}
